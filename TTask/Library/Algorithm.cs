@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace TTask.Library
-{
+{//
     public static class Algorithm
     {
         public static Output Calculate(Input input)
